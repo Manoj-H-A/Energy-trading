@@ -25,12 +25,6 @@ With the rise of **renewable sources like solar power**, there is a growing need
 **Firmware:** Arduino (ESP32 sketches)  
 **Frontend:** HTML, CSS, JavaScript  
 
----
-
-## 📸 Screenshots
-Screenshot 2025-09-13 053723.png
-
----
 
 ## 🌟 Impact
 This project demonstrates a **sustainable energy trading model**, enabling users to:
