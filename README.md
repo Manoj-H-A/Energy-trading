@@ -28,7 +28,7 @@ With the rise of **renewable sources like solar power**, there is a growing need
 ---
 
 ## 📸 Screenshots
-(Add your project screenshots here – dashboard, ESP32 setup, payment flow, etc.)
+Screenshot 2025-09-13 053723.png
 
 ---
 
