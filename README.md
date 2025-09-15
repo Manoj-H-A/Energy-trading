@@ -47,4 +47,4 @@ One of the most enriching aspects of the event was the **opportunity to collabor
 > 💡 *This first hackathon experience has not only strengthened our technical skills but also boosted our confidence to take on future challenges and contribute meaningfully to real-world problems.*
 
 
-> **View a detailed Explaination here** https://github.com/Manoj-H-A/EnergyTrading/wiki
+> **View a detailed Explaination here** (https://github.com/Manoj-H-A/Energy-trading/wiki)
